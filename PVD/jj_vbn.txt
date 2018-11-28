@@ -11,7 +11,6 @@ bored
 stuck
 encouraged
 astonished
-moved
 frigntened
 terrified
 puzzled
@@ -29,5 +28,11 @@ frustrated
 relaxed
 exhausted
 annoyed
+unprecedented
+previleged
+doomed
+destined
+moved
 broken
 closed
+developed
